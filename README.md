@@ -1,2 +1,2 @@
-# ImageForBlog
-save blog images
+# 博客图片存储
+保存博客的图片
